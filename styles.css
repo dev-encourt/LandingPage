@@ -70,3 +70,30 @@ button {
     border-radius: 10px;
     font-weight: bold;
 }
+
+#info {
+    display: flex;
+    justify-content: center;
+    padding: 0px 7% 100px;
+    gap: 50px;
+}
+
+#info img {
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+    padding: 40px;
+}
+
+#info .img-and-text {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height auto;
+}
