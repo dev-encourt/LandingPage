@@ -115,3 +115,33 @@ header {
     font-weight: bold;
     font-size: 18px;
 }
+
+#CTA {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding 100px; 7%;
+    background-color: #3882f6;
+    width: 800px;
+    padding: 50px 5%;
+    margin: 100px 150px;
+    color: white;
+    border-radius: 10px;
+}
+
+.CTAbtn button {
+    border-radius: 10px;
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+    background-color: #3882f6;
+    color: white;
+    border: 3px solid white;
+}
+
+footer {
+    background-color: #1f2937 ;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
