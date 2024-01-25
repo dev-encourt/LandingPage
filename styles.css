@@ -95,7 +95,7 @@ header {
     display: flex;
     flex-direction: column;
     width: 200px;
-    height auto;
+    height: auto;
 }
 
 .blockquote {
@@ -120,11 +120,9 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding 100px; 7%;
     background-color: #3882f6;
-    width: 800px;
     padding: 50px 5%;
-    margin: 100px 150px;
+    margin: 100px 20%;
     color: white;
     border-radius: 10px;
 }
